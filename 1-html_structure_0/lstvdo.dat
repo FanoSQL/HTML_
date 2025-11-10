@@ -1,0 +1,39 @@
+[VDOREP]
+dossier_1=C:\MesProjets\laragon\www\iTop Screen Recorder\Outputs
+dossier_2=C:\Users\GoNUMERIQUE\AppData\LocalLow\iTop Screen Recorder\Outputs
+dossier_3=/drive/
+[MESVDO]
+nbre=3
+fichier_1=HTML_0_m.mp4
+fichier_2=Structure_HTML_0.mp4
+fichier_3=Structure_HTML_1.mp4
+[INFOQUALITE]
+qualite=viable
+date=20230326
+auteur=SMONTET
+[ARTICLE]
+id=0
+[FORMATION]
+formation=
+IdCours=
+PointsCommuns=Création de site internet, Développeur Web et Web Mobile, Concepteur Développeur d'application
+Chapitre:HTML débutant
+Objectifs : Créer la structure d'un site internet
+[SOURCE]
+amorce=index.html
+imageprojet=
+[PROJET]
+nomprojet=
+[CATEG]
+categorie=CODE SOURCES
+souscategorie=HTML
+[EXERCICES]
+nbre=6
+source_1=C:\MesProjets\Malibrairie\HTML_\EXOS_\0_
+source_2=C:\MesProjets\Malibrairie\HTML_\EXOS_\1_
+source_3=C:\MesProjets\Malibrairie\HTML_\EXOS_\2_
+source_4=C:\MesProjets\Malibrairie\HTML_\EXOS_\3_
+source_5=C:\MesProjets\Malibrairie\HTML_\EXOS_\4_
+source_6=C:\MesProjets\Malibrairie\HTML_\EXOS_\5_
+[SOCIETE]
+id=1
